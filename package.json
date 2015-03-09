@@ -1,0 +1,14 @@
+{
+  "name": "@lk/assert-structure",
+  "version": "0.1.0",
+  "description": "Quick object structure checking",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-mocha": "^1.1.1",
+    "should": "^4.0.4"
+  }
+}
